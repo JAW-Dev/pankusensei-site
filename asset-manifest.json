@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pankusensei-site/static/css/main.f0542ae7.css",
-    "main.js": "/pankusensei-site/static/js/main.e11e8b8c.js",
-    "static/js/787.fc7a1694.chunk.js": "/pankusensei-site/static/js/787.fc7a1694.chunk.js",
-    "static/media/background.jpg": "/pankusensei-site/static/media/background.14780ba26abc06937067.jpg",
-    "index.html": "/pankusensei-site/index.html",
-    "main.f0542ae7.css.map": "/pankusensei-site/static/css/main.f0542ae7.css.map",
-    "main.e11e8b8c.js.map": "/pankusensei-site/static/js/main.e11e8b8c.js.map",
-    "787.fc7a1694.chunk.js.map": "/pankusensei-site/static/js/787.fc7a1694.chunk.js.map"
+    "main.css": "/static/css/main.3ad8a4cc.css",
+    "main.js": "/static/js/main.a18aeb5a.js",
+    "static/js/787.fc7a1694.chunk.js": "/static/js/787.fc7a1694.chunk.js",
+    "static/media/background.jpg": "/static/media/background.14780ba26abc06937067.jpg",
+    "index.html": "/index.html",
+    "main.3ad8a4cc.css.map": "/static/css/main.3ad8a4cc.css.map",
+    "main.a18aeb5a.js.map": "/static/js/main.a18aeb5a.js.map",
+    "787.fc7a1694.chunk.js.map": "/static/js/787.fc7a1694.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0542ae7.css",
-    "static/js/main.e11e8b8c.js"
+    "static/css/main.3ad8a4cc.css",
+    "static/js/main.a18aeb5a.js"
   ]
 }
