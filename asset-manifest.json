@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ad8a4cc.css",
-    "main.js": "/static/js/main.a18aeb5a.js",
-    "static/js/787.fc7a1694.chunk.js": "/static/js/787.fc7a1694.chunk.js",
-    "static/media/background.jpg": "/static/media/background.14780ba26abc06937067.jpg",
-    "index.html": "/index.html",
-    "main.3ad8a4cc.css.map": "/static/css/main.3ad8a4cc.css.map",
-    "main.a18aeb5a.js.map": "/static/js/main.a18aeb5a.js.map",
-    "787.fc7a1694.chunk.js.map": "/static/js/787.fc7a1694.chunk.js.map"
+    "main.css": "/pankusenei.com/static/css/main.2c674b97.css",
+    "main.js": "/pankusenei.com/static/js/main.8378480a.js",
+    "static/js/787.fc7a1694.chunk.js": "/pankusenei.com/static/js/787.fc7a1694.chunk.js",
+    "static/media/background.jpg": "/pankusenei.com/static/media/background.14780ba26abc06937067.jpg",
+    "index.html": "/pankusenei.com/index.html",
+    "main.2c674b97.css.map": "/pankusenei.com/static/css/main.2c674b97.css.map",
+    "main.8378480a.js.map": "/pankusenei.com/static/js/main.8378480a.js.map",
+    "787.fc7a1694.chunk.js.map": "/pankusenei.com/static/js/787.fc7a1694.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ad8a4cc.css",
-    "static/js/main.a18aeb5a.js"
+    "static/css/main.2c674b97.css",
+    "static/js/main.8378480a.js"
   ]
 }
